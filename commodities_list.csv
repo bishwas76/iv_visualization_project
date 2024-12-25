@@ -1,0 +1,140 @@
+commodity_id,commodity_name
+101.1,Tomato Big(Nepali)
+101.2,Tomato Big(Indian)
+102.1,Tomato Small(Local)
+102.2,Tomato Small(Tunnel)
+102.3,Tomato Small(Indian)
+102.4,Tomato Small(Terai)
+104,Potato Red
+104.1,Potato Red(Indian)
+104.2,Potato Red(Mude)
+105,Potato White
+106.1,Onion Dry (Indian)
+106.2,Onion Dry (Chinese)
+107.1,Carrot(Local)
+107.2,Carrot(Terai)
+108.1,Cabbage(Local)
+108.2,Cabbage(Terai)
+108.3,Cabbage
+110.1,Cauli Local
+110.2,Cauli Local(Jyapu)
+111,Cauli Terai
+113,Raddish Red
+114.1,Raddish White(Local)
+114.2,Raddish White(Hybrid)
+115,Brinjal Long
+116,Brinjal Round
+117.1,Cow pea(Long)
+117.2,Cowpea(Short)
+118,Green Peas
+119.1,French Bean(Local)
+119.2,French Bean(Hybrid)
+119.3,French Bean(Rajma)
+120,Sword Bean
+121,Soyabean Green
+122,Bitter Gourd
+123,Bottle Gourd
+124.1,Pointed Gourd(Local)
+124.2,Pointed Gourd(Terai)
+125,Snake Gourd
+126,Smooth Gourd
+127,Sponge Gourd
+128,Pumpkin
+129.1,Squash(Long)
+129.2,Squash(Round)
+130,Turnip
+131,Okara
+132,Sweet Potato
+133,Barela
+134,Arum
+135,Christophine
+136,Brd Leaf Mustard
+137,Spinach Leaf
+138,Cress Leaf
+139,Mustard Leaf
+140,Fenugreek Leaf
+141,Onion Green
+142,Bakula
+143,Yam
+144.1,Mushroom(Kanya)
+144.2,Mushroom(Button)
+145,Asparagus
+146,Neuro
+147,Brocauli
+148,Sugarbeet
+149,Drumstick
+150,Bauhania flower
+151,Red Cabbbage
+152,Lettuce
+153,Knolkhol
+154,Celery
+155,Parseley
+156,Fennel Leaf
+157,Mint
+158,Turnip A
+159,Maize
+160,Tamarind
+161,Bamboo Shoot
+162,Tofu
+163,Gundruk
+201.1,Apple(Jholey)
+201.2,Apple(Fuji)
+202,Banana
+203,Lime
+204,Pomegranate
+205.1,Mango(Maldah)
+205.2,Mango(Dushari)
+205.3,Mango(Chousa)
+205.4,Mango(Calcutte)
+206.1,Grapes(Green)
+206.2,Grapes(Black)
+207.1,Orange(Nepali)
+207.2,Orange(Indian)
+208.1,Water Melon(Green)
+208.2,Water Melon(Dotted)
+209,Sweet Orange
+210,Mandarin
+211,Pineapple
+212.1,Cucumber(Local)
+212.2,Cucumber(Hybrid)
+213,Jack Fruit
+214,Lemon
+215,Sweet Lime
+216.1,Pear(Local)
+216.2,Pear(Chinese)
+217.1,Papaya(Nepali)
+217.2,Papaya(Indian)
+218,Guava
+219,Mombin
+220.1,Litchi(Local)
+220.2,Litchi(Indian)
+221,Musk Melon
+222,Sugarcane
+223,Kinnow
+224,Strawberry
+225,Kiwi
+226,Sarifa
+227,Avocado
+228,Amla
+301,Ginger
+302,Chilli Dry
+303,Chilli Green
+303.1,Chilli Green(Bullet)
+303.2,Chilli Green(Machhe)
+303.3,Chilli Green(Akbare)
+304,Capsicum
+306,Garlic Green
+307,Coriander Green
+308.1,Garlic Dry Chinese
+308.2,Garlic Dry Nepali
+310,Clive Dry
+311,Clive Green
+401,Fish Dry
+402,Fish Fresh
+402.1,Fish Fresh(Rahu)
+402.2,Fish Fresh(Bachuwa)
+402.3,Fish Fresh(Chhadi)
+402.4,Fish Fresh(Mungari)
+164,Tree Tomato
+144.3,King Oyster
+144.4,Lentinula Edodes
