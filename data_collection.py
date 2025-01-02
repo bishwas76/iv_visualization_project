@@ -23,7 +23,7 @@ for commodity_id, commodity_name in zip(
     commodity_price = get_commodity_price_data(
         commodity_id,
         "2013-1-1",
-        "2024-12-25",
+        "2024-12-31",
     )
     commodity_price_df = pd.DataFrame(commodity_price)
 
